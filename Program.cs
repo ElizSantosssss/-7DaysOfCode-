@@ -1,10 +1,22 @@
-﻿using RestSharp;
+﻿﻿using AutoMapper;
+using Microsoft.Extensions.DependencyInjection;
+using Newtonsoft.Json;
+using RestSharp;
+using Tamagotchi.Controller;
+using Tamagotchi.Model;
+using Tamagotchi.Service;
+using Tamagotchi.View;
 
-class Program
+namespace Tamagotchi
 {
-    static void Main()
+    class Program
     {
-        ConsoleMenu consoleMenu = new ConsoleMenu();
-        consoleMenu.Run();
+
+        static void Main(string[] args)
+        {
+            TamagotchiContoller tamagotchiContoller = new TamagotchiContoller();
+            tamagotchiContoller.Jogar();
+        }
     }
+
 }

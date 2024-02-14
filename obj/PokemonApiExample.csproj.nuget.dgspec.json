@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\PokemonApiExample\\PokemonApiExample.csproj": {}
+    "C:\\Users\\Usuario\\CodeTamagotchi\\-7DaysOfCode-\\PokemonApiExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\PokemonApiExample\\PokemonApiExample.csproj": {
+    "C:\\Users\\Usuario\\CodeTamagotchi\\-7DaysOfCode-\\PokemonApiExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\PokemonApiExample\\PokemonApiExample.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\CodeTamagotchi\\-7DaysOfCode-\\PokemonApiExample.csproj",
         "projectName": "PokemonApiExample",
-        "projectPath": "C:\\Users\\Usuario\\PokemonApiExample\\PokemonApiExample.csproj",
+        "projectPath": "C:\\Users\\Usuario\\CodeTamagotchi\\-7DaysOfCode-\\PokemonApiExample.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\PokemonApiExample\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\CodeTamagotchi\\-7DaysOfCode-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
