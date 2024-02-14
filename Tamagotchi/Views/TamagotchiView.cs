@@ -12,10 +12,10 @@ namespace Tamagotchi.View
         public void MostrarMensagemDeBoasVindas()
         {
             Console.WriteLine("\n ──────────────");
-            Console.WriteLine("Bem-vindo ao jogo de adoção de mascotes!");
+            Console.WriteLine("Bem-vindo ao jogo!");
             Console.Write("Por favor, digite seu nome: ");
             string nomeJogador = Console.ReadLine();
-            Console.WriteLine("Olá, " + nomeJogador + "! Vamos começar!");
+            Console.WriteLine("Olá, " + nomeJogador + "! Vamos começar que tal adotar um Mascote?");
         }
 
         public void MostrarMenuPrincipal()
